@@ -1,0 +1,145 @@
+[
+  {
+    "file": "assets/images/hero.webp",
+    "source": "../Wormhole R83XKA/DSC_9482 copy.jpg",
+    "size": [
+      2400,
+      1602
+    ],
+    "bytes": 161642
+  },
+  {
+    "file": "assets/images/zamatovy-jez.webp",
+    "source": "../Wormhole R83XKA/zj-1000-1000-transparent.png",
+    "size": [
+      700,
+      700
+    ],
+    "bytes": 71830
+  },
+  {
+    "file": "assets/images/zachranene-vianoce.webp",
+    "source": "../Wormhole R83XKA/IMG_8188.jpeg",
+    "size": [
+      700,
+      933
+    ],
+    "bytes": 147660
+  },
+  {
+    "file": "assets/images/mimoza.webp",
+    "source": "../Wormhole R83XKA/mimóza.png",
+    "size": [
+      500,
+      645
+    ],
+    "bytes": 49342
+  },
+  {
+    "file": "assets/images/stastne-nahody.webp",
+    "source": "../Wormhole R83XKA/IMG_8184 (1).jpeg",
+    "size": [
+      700,
+      933
+    ],
+    "bytes": 37864
+  },
+  {
+    "file": "assets/images/book-club-reference.webp",
+    "source": "../Site screenshots/Screenshot 2026-10-21 at 16.22.54.png",
+    "status": "temporary screenshot image crop; original missing"
+  },
+  {
+    "file": "assets/images/author-library.webp",
+    "source": "../Wormhole R83XKA/foto kniznica.jpg",
+    "size": [
+      1000,
+      1500
+    ],
+    "bytes": 111324
+  },
+  {
+    "file": "assets/images/author-bookshop.webp",
+    "source": "../Wormhole R83XKA/T3XX0036.jpg",
+    "size": [
+      1400,
+      933
+    ],
+    "bytes": 161714
+  },
+  {
+    "file": "assets/images/zamatovy-jez-detail.webp",
+    "source": "../Wormhole R83XKA/481019783_612167181786648_6561240449470810076_n.jpg",
+    "size": [
+      1200,
+      1200
+    ],
+    "bytes": 99338
+  },
+  {
+    "file": "assets/images/christmas-books.webp",
+    "source": "../Wormhole R83XKA/AdrianaBoysová-34.jpg",
+    "size": [
+      1400,
+      933
+    ],
+    "bytes": 120930
+  },
+  {
+    "file": "assets/images/christmas-launch.webp",
+    "source": "../Wormhole R83XKA/AdrianaBoysová-23.jpg",
+    "size": [
+      1400,
+      933
+    ],
+    "bytes": 262010
+  },
+  {
+    "file": "assets/images/christmas-dream.avif",
+    "source": "../Wormhole R83XKA/Screenshot 2025-12-09 173811.avif",
+    "size": [
+      637,
+      433
+    ],
+    "bytes": 43448,
+    "status": "Original AVIF retained to preserve its alpha channel."
+  },
+  {
+    "file": "assets/images/mimosa-branch.avif",
+    "source": "../Wormhole R83XKA/Yellow Mimosa Branch.avif",
+    "size": [
+      411,
+      246
+    ],
+    "bytes": 21793,
+    "status": "Original AVIF retained to preserve its alpha channel."
+  },
+  {
+    "file": "assets/images/book-stack.webp",
+    "source": "../Wormhole R83XKA/knihy.avif",
+    "size": [
+      491,
+      737
+    ],
+    "bytes": 69808
+  },
+  {
+    "file": "assets/images/christmas-story.webp",
+    "source": "../Wormhole R83XKA/pixlr-video-generator-6938537dd9ccce2a1ae1180a.mp4",
+    "status": "First frame of the supplied book illustration; no intro animation",
+    "size": [
+      544,
+      736
+    ]
+  },
+  {
+    "file": "assets/images/author-reading-dsc9346.avif",
+    "source": "../Wormhole R83XKA/DSC_9346 copy.avif",
+    "size": [
+      794,
+      989
+    ],
+    "bytes": 41445,
+    "status": "Higher-resolution replacement supplied by the owner; original AVIF copied without recompression."
+  }
+]
