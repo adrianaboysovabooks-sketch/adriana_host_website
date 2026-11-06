@@ -1,0 +1,3 @@
+# Local review preview. Replace with final indexing policy before public launch.
+User-agent: *
+Disallow: /
